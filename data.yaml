@@ -1,0 +1,34 @@
+names:
+- '0'
+- adirasam
+- aloo gobi
+- biryani
+- chai
+- chapati
+- curd
+- curry
+- dal
+- egg biryani
+- jalebi
+- kajaya
+- kheer
+- lemon
+- masala
+- mixture
+- mysore pak
+- onion
+- poha
+- pomogranate
+- rice
+- sabji
+- sambar
+nc: 23
+roboflow:
+  license: CC BY 4.0
+  project: my-first-project-akmyo
+  url: https://universe.roboflow.com/meghanap/my-first-project-akmyo/dataset/1
+  version: 1
+  workspace: meghanap
+test: ../test/images
+train: ../train/images
+val: ../valid/images
